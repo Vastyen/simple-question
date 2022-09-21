@@ -1,2 +1,2 @@
-# simple-question
+# Simple Question
 Just answer 
