@@ -12,7 +12,7 @@ Please make sure to update tests as appropriate.
 
 Bastián Escribano                
 
-We did this software with academic purposes.             
+I did this software with academic purposes.             
      
 
 ## License
